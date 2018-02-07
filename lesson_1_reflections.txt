@@ -1,0 +1,57 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It showed me the error.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It will save me lots of time.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Saving space and memory vs. loosing information potentionaly important.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    It is faster to see every difference.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    No idea.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    The changes will be easely removed.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    To develop a web page.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	Saving lots of time.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+You can choose when tu save, when it is a logical change vs. not having control of it. But you will have evrerything save.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because are files related to each other.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log shows every the commit that ever existed, git diff shows the dfferent between two commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+You know that they will be stored, so you won't loose anything for good.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+for not loosing information
