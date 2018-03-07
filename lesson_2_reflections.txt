@@ -24,5 +24,10 @@ By estructurizing the different brunches
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+One branch with all the commits of the two previus branches. Because they were paralel works that have joint into one work.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+automatically; faster, easier, vs. conflicts, lots of a.i.
+manully; less conflicts, you choose witch one when there is a conflict. vs. it might ask to much.
